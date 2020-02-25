@@ -37,6 +37,7 @@ const plugins = [
   'gatsby-plugin-offline',
 ];
 
+//connecting medium
 module.exports = client.getEntries().then(entries => {
   const { mediumUser } = entries.items.find(getAboutEntry).fields;
 
