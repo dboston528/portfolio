@@ -51,7 +51,7 @@ const Footer = () => (
                 <span role="img" aria-label="copyright">
                   © 2020
                 </span>
-                <span>{`${name} Portfolio - Powered by `}</span>
+                <span>{` ${name} Boston`}</span>
               </TextFooter>
             </Fade>
             <Flex>
