@@ -17,7 +17,7 @@ const Background = () => (
     />
 
     <Triangle
-      color="#cfb53b"
+      color="#EDCE45"
       height={['38vh', '80vh']}
       width={['50vw', '35vw']}
     />
