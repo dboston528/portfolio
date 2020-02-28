@@ -14,7 +14,7 @@ import Hide from '../components/Hide';
 const Background = () => (
   <div>
     <Triangle
-      color="secondaryLight"
+      color="#cfb53b"
       height={['80vh', '80vh']}
       width={['100vw', '100vw']}
       invertX
